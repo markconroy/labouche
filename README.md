@@ -1,4 +1,4 @@
 Restaurant
 ==========
 
-A template for Restaurant business
+One page website for Le Bouchon, Portumna.
