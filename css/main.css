@@ -311,7 +311,7 @@ IMAGE INTRO BANNER CONTENT
 background-attachment: fixed;
 }
  #pricing.background_content{
-  background: url('../images/pricing.jpg') no-repeat center center;
+  background: url('../custom-images/le-bouchon-menu.jpg') no-repeat center center;
   background-size: cover;
   background-position: center;
 background-attachment: fixed;
