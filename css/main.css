@@ -197,6 +197,10 @@ NAV
 
 }
 
+.navbar-brand img {
+  width: 160px;
+}
+
 nav {
   background: #1E1E1E !important;
   font-size: 18px;
